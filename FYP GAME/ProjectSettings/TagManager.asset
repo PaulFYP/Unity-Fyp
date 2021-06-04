@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3475226447
+    locked: 0
+  - name: Crawler
+    uniqueID: 3982081841
+    locked: 0
+  - name: PopUpBox
+    uniqueID: 2542180591
+    locked: 0
